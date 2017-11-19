@@ -1,5 +1,5 @@
 #!/bin/sh
 
 # Ask user for input
-read -p "Gimmie some input yo: " fucking_input
-echo "${fucking_input}"
+read -p "Please enter input: " input
+echo "${input}"
