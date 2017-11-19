@@ -1,5 +1,4 @@
 #!/bin/bash
-
 ZSHRC=$HOME/.zshrc
 
 echo ""

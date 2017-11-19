@@ -1,6 +1,4 @@
 #!/bin/bash
-ZSHRC=$HOME/.zshrc
-
 echo ""
 echo "======================================="
 echo "======= Install Mariadb ==============="
